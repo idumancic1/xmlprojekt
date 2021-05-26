@@ -1,0 +1,133 @@
+
+
+a {
+  color: #fc0328;
+  text-decoration:none;
+ 
+  
+}
+
+
+a:visited,
+a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+#nav a:link{
+    font-size: 1.2em;
+    color: black;
+    text-decoration:none;
+    display:block;
+    padding:1em;
+    margin:1em;
+    border-radius: 9999px;
+    font-weight:600;
+   
+}
+#nav a:visited,
+#nav a:hover {
+    font-size: 1.2em;
+    color: white;
+    text-decoration:none;
+    display:block;
+    padding:1em;
+    margin:1em;
+    border-radius: 9999px;
+    font-weight:600;
+   
+}
+
+
+
+
+
+
+img {
+    float: left;
+    width:  350px;
+    height: 350px;
+	padding: 2px;
+
+   
+}
+
+#logo { width: 100px; height: 90px; margin-top:7px;float:right;}
+
+BODY {
+background-color: black;
+
+  color: white;}
+  
+  
+#vinyl {
+	
+	font-family:'Georgia';
+	text-align: right;
+	position:relative;
+	bottom:10px;
+	font-weight: 400;
+    padding-top:0.3em;
+    color: black;
+    font-size: 4em;
+}
+
+
+#title{
+    text-align: right;
+    padding-top:0.3em;
+    color: white;
+    font-size: 3em;
+	text-align: justify;
+    width: 200px;
+	
+    
+}
+
+#nav{
+    
+    font-size: 1em;
+    text-align: center;
+	  background-image: url('img/bekgraund.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  border-radius: 15px;
+  width:100%;
+  margin-bottom: 10px;
+}
+
+
+
+#items2,#items1,#items3 {
+	padding: 10px;
+}
+
+footer { 
+	
+	color: white;
+	text-align: center;
+	width: 100%;
+	padding: 5px;
+}
+
+
+.pod {
+	vertical-align: center;
+}
+
+.white { 
+width:100%;
+border-color:rgba(255, 255, 255, 0.774);
+border-style:solid;
+border-width:0 0 1px;
+
+padding:0;}
+
+iframe{
+    width: 90%;
+	height: 90%;
+	padding: 5px;
+	border: 1px solid white;
+	border-radius: 15px;
+}

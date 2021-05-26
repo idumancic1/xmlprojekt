@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AlbumList>
+
+<album> 
+	<id> 1 </id>
+	<name>Caracal</name>
+	<artist> Disclosure </artist>
+	<genre> Electronic, House </genre>
+	<year> 2015 </year>
+	<price> 7.99 $</price>
+	<description> Caracal is the second studio album by English electronic music duo Disclosure. It was released on 25 September 2015 by PMR Records and Island Records. Five official singles have been released from the album: "Holding On", "Omen", "Jaded", "Magnets" and "Nocturnal", with three promotional singles also being released: "Bang That", "Willing and Able" and "Hourglass".
+
+							Caracal was nominated for Best Dance/Electronic Album at the 2016 Grammy Awards.</description>
+</album>
+
+<album> 
+	<id> 2 </id>
+	<name>How I'm Feeling Now </name>
+	<artist> Charli XCX </artist>
+	<genre> Experimental pop </genre>
+	<year> 2020 </year>
+	<price> 6.99 $</price>
+	<description>How I'm Feeling Now is the fourth studio album by English singer and songwriter Charli XCX, released on 15 May 2020. Coming eight months after her previous LP Charli (2019), the album was conceived during the COVID-19 lockdown and made in a "do it yourself" collaborative process with her fans in the span of six weeks. Charli XCX, A. G. Cook and BJ Burton served as the album's executive producers.
+
+How I'm Feeling Now was preceded by the singles "Forever", "Claws" and "I Finally Understand" which were met with positive reviews from critics. The album received critical acclaim, and was noted for its fusion of pop songwriting and experimental electronic production. It was shortlisted for the 2020 Mercury Prize. </description>
+</album>
+
+<album> 
+	<id> 3 </id>
+	<name>Ye </name>
+	<artist> Kanye West </artist>
+	<genre> Rap </genre>
+	<year> 2018 </year>
+	<price> 13.99 $</price>
+	<description>Ye is the eighth studio album by American rapper Kanye West. It was released on June 1, 2018, through GOOD Music and distributed by Def Jam Recordings. Following controversy surrounding an interview with TMZ, West re-recorded all the work on the album, with him completing it over the course of just two weeks at West Lake Ranch in Jackson Hole, Wyoming.
+
+Guest vocals from PartyNextDoor, Ty Dolla Sign, Kid Cudi, Charlie Wilson, Jeremih, and 070 Shake, among others, are included on Ye. West produced it with Mike Dean, alongside numerous others. Succeeding the release of Pusha T's Daytona, the album was the second of five seven-track albums produced by West in what were referred to as the "Wyoming Sessions", which were set to be released weekly. It preceded the release of West's collaborative album with Kid Cudi, as Kids See Ghosts, titled Kids See Ghosts. The latter's release was succeeded by that of Nas' Nasir, and Teyana Taylor's K.T.S.E.. </description>
+</album>
+
+<album> 
+	<id> 4 </id>
+	<name>After Hours (Deluxe)</name>
+	<artist> The Weeknd</artist>
+	<genre> Pop, RnB </genre>
+	<year> 2020 </year>
+	<price> 19.99 $</price>
+	<description>After Hours is the fourth studio album by Canadian singer the Weeknd, released on March 20, 2020, by XO and Republic Records. Primarily produced by the Weeknd, it features a variety of producers, including DaHeala, Illangelo, Max Martin, Metro Boomin, and OPN, most of whom the Weeknd had worked with previously. The standard edition of the album has no features, although the remixes edition contains guest appearances from Chromatics and Lil Uzi Vert. Thematically, After Hours explores promiscuity, overindulgence, and self-loathing. </description>
+</album>
+
+<album> 
+	<id> 5 </id>
+	<name> Bez Tebe </name>
+	<artist> Senidah </artist>
+	<genre> RnB, Trap, Folk </genre>
+	<year> 2019 </year>
+	<price> 4.99 $</price>
+	<description> Bez Tebe is the debut studio album by Slovenian singer-songwriter Senidah. It was released on 25 March 2019 under Belgrade-based label Bassivity Digital. Songs were written by the artist and Benjamin Krnetić and produced by Anže Kacafura, with the exception of "Crno Srce", which is written and produced by Slobodan Veljković. The record, containing ten tracks, is primarily urban music incorporating electronic, soul and indie music. Lyrically, songs are about searching for love. </description>
+</album>
+
+<album> 
+	<id> 6 </id>
+	<name>No Future </name>
+	<artist> EDEN </artist>
+	<genre> Pop, RnB </genre>
+	<year> 2020 </year>
+	<price> 5.99 $</price>
+	<description> No Future (stylised as no future) is the second studio album by Irish musician Eden, released on 13 February 2020 through the label MCMXCV and distributed by Astralwerks. The album features 19 tracks including the four singles "Untitled", "Projector", "Love, Death, Distraction" and "Isohel", which were released leading up to the album. The album is followed by the No Future Tour, which was supposed to visit North America and Europe but got cancelled due to the COVID-19 pandemic. </description>
+</album>
+
+<album> 
+	<id> 7 </id>
+	<name>Dark Lane Demo Tapes </name>
+	<artist> Drake </artist>
+	<genre> Hip Hop, Trap Rap, RnB </genre>
+	<year> 2020 </year>
+	<price> 15.99 $</price>
+	<description> Dark Lane Demo Tapes is a mixtape by Canadian rapper Drake. The mixtape is a compilation of songs that were released on SoundCloud or leaked on the internet, as well as new songs, and is considered a "warm-up" to Drake's upcoming sixth studio album release in 2021.[4] It was released on May 1, 2020, by OVO Sound and Republic Records. Production was handled by Drake's longtime collaborator 40, among other record producers. Featured guest appearances include Future, Young Thug, Chris Brown, Playboi Carti, Giveon, Fivio Foreign, and Sosa Geek. </description>
+</album>
+
+<album> 
+	<id> 8 </id>
+	<name> Mercedes City </name>
+	<artist> Bore Balboa </artist>
+	<genre> Trap Rap </genre>
+	<year> 2020 </year>
+	<price> 3.99 $</price>
+	<description> Dobrodošli u Mercedes City, gdje teku samo med i mlijeko, a cure su pretty. Svojevrsna legenda undergrounda, Bore Balboa, objavio je drugi studijski album “Mercedes City” u kojem je dodatno potvrdio i naglasio nekoliko zanimljivih činjenica o sebi i domaćoj trap/hip hop sceni. </description>
+</album>
+
+<album> 
+	<id> 9 </id>
+	<name> Pluto x Baby Pluto</name>
+	<artist> Future Hendrix &amp; Lil Uzi Vert </artist>
+	<genre> Trap Rap, Pop Rap </genre>
+	<year> 2020 </year>
+	<price> 8.99 $</price>
+	<description> Pluto x Baby Pluto is a collaborative studio album by American rappers Future and Lil Uzi Vert. It was released on November 13, 2020, and was previewed through several trailers starting from July 2020.
+
+The title signifies the combination of both artists' nicknames: Future is referred to as Pluto, while Lil Uzi Vert identifies as Baby Pluto, previously expressed through the song "Baby Pluto". It is the second project released by Future in 2020, following High Off Life. It is also the third project released by Lil Uzi Vert in the year, following Eternal Atake and its deluxe reissue, notably after a lack of music released by Uzi between 2018 and 2019.
+
+A deluxe version of the album was released on November 17, 2020, just four days following the release of Pluto x Baby Pluto. </description>
+</album>
+
+<album> 
+	<id> 10 </id>
+	<name>Man on The Moon 3 </name>
+	<artist> Kid Cudi </artist>
+	<genre> Hip Hop, Trap Rap </genre>
+	<year> 2021 </year>
+	<price> 6.99 $</price>
+	<description>Man on the Moon III: The Chosen is the seventh studio album by American rapper Kid Cudi. It was released on December 11, 2020 by Republic Records. It is the final installment of Cudi's Man on the Moon trilogy of albums (which includes 2009's Man on the Moon: The End of Day and 2010's Man on the Moon II: The Legend of Mr. Rager).
+
+The 18-track album was produced mainly by Cudi himself and Dot da Genius, along with Plain Pat, Emile Haynie and Mike Dean, all of whom contributed to the previous two Man on the Moon albums. Guest vocals on the album are contributed by Phoebe Bridgers, Pop Smoke, Skepta and Trippie Redd.
+
+Thematically, Man on the Moon III is a concept album that finds Cudi in an internal struggle against his evil alter ego, Mr. Rager, in hopes to win back his peace and happiness. As with the previous two installments in the trilogy, the album is divided into separate acts. </description>
+</album>
+
+<album> 
+	<id> 11 </id>
+	<name>Justice </name>
+	<artist> Justin Bieber </artist>
+	<genre> Pop </genre>
+	<year> 2021 </year>
+	<price> 6.99 $</price>
+	<description> Justice is the sixth studio album by Canadian singer Justin Bieber. It was released through Def Jam Recordings on March 19, 2021, thirteen months after his fifth studio album, Changes (2020). The album features guest appearances from Khalid, Chance the Rapper, the Kid Laroi, Dominic Fike, Daniel Caesar, Giveon, Beam, Burna Boy, Benny Blanco, as well as Lil Uzi Vert, Jaden, Quavo, DaBaby, and Tori Kelly on the deluxe edition. One of the alternate cover discs features an appearance from TroyBoi and another alternate cover disc includes a vocal contribution from Poo Bear. Its production was handled by Virtual Riot, Andrew Watt, Skrillex, Finneas, Jon Bellion, Benny Blanco, the Monsters,Strangerz, Bieber and more. </description>
+</album>
+
+<album> 
+	<id> 12 </id>
+	<name>Savage Mode 2 </name>
+	<artist> 21 Savage &amp; Metro Boomin </artist>
+	<genre> Trap Rap </genre>
+	<year> 2020 </year>
+	<price> 14.99 $</price>
+	<description> Savage Mode II is a collaborative studio album by Atlanta-based rapper 21 Savage and American record producer Metro Boomin. It was released on October 2, 2020, and was previewed through a trailer with narration by Morgan Freeman. The album serves as a sequel to the duo's extended play Savage Mode (2016). It features guest appearances by Drake, Young Thug, and Savage's cousin Young Nudy. On October 19, 2020, a chopped and screwed version of the album was released.
+
+Savage Mode II received widespread acclaim and debuted atop the US Billboard 200, becoming 21 Savage and Metro Boomin's second US number-one album. It was supported by two singles: "Runnin" and "Mr. Right Now". </description>
+</album>
+
+<album> 
+	<id> 13 </id>
+	<name>The Wizrd</name>
+	<artist> Future Hendrix </artist>
+	<genre> Trap Rap, RnB </genre>
+	<year> 2019 </year>
+	<price> 12.99 $</price>
+	<description> Future Hndrxx Presents: The Wizrd (also referred to simply as The Wizrd and stylized as The WIZRD) is the seventh studio album by the American rapper Future, released on January 18, 2019, by Freebandz and distributed by Epic Records. It was announced on January 4 with the release of the single "Crushed Up". The album was additionally promoted by a film titled The Wizrd, released on January 11 on Apple Music. The second single, "Jumpin on a Jet", was released on January 9. The album has 20 songs and includes guest appearances by Young Thug, Gunna, and Travis Scott.
+
+The Wizrd received generally positive reviews from critics and debuted at number one on the US Billboard 200. It is Future's sixth US number-one album. </description>
+</album>
+
+<album> 
+	<id> 14 </id>
+	<name>Yeezus </name>
+	<artist> Kanye West </artist>
+	<genre> Experimental Hip Hop </genre>
+	<year> 2013 </year>
+	<price> 19.99 $</price>
+	<description> Yeezus is the sixth studio album by American rapper and producer Kanye West. It was released on June 18, 2013, through Def Jam Recordings and Roc-A-Fella Records. West gathered a number of artists and close collaborators for the production, including Mike Dean, Daft Punk, Noah Goldstein, Arca, Hudson Mohawke, and Travis Scott. The album also features guest vocals from Justin Vernon, Chief Keef, Kid Cudi, Assassin, King L, Charlie Wilson, and Frank Ocean. </description>
+</album>
+
+<album> 
+	<id> 15 </id>
+	<name>So Much Fun </name>
+	<artist> Young Thug </artist>
+	<genre> Trap Rap, Pop Rap </genre>
+	<year> 2019 </year>
+	<price> 10.99 $</price>
+	<description> So Much Fun is the debut studio album by American rapper Young Thug, it was released on August 16, 2019, by YSL Records, 300 Entertainment and Atlantic Records. The album features guest appearances from Future, Machine Gun Kelly, Gunna, Lil Baby, Lil Uzi Vert, Lil Duke, 21 Savage, Doe Boy, Lil Keed, Quavo, Juice Wrld, Nav, J. Cole, and Travis Scott. The album was supported by the singles "The London" and "Hot".
+
+So Much Fun received generally positive reviews and debuted atop the US Billboard 200, becoming Young Thug's first US number-one album.</description>
+</album>
+
+<album>
+	<id> 16 </id>
+	<name>SAVE ME </name>
+	<artist> Future Hendrix </artist>
+	<genre> RnB, Soul </genre>
+	<year> 2019 </year>
+	<price> 7.99 $</price>
+	<description>Save Me is the first extended play by American rapper Future, released through Freebandz and Epic Records on June 7, 2019. It debuted at number five on the US Billboard 200. </description>
+</album>
+
+<album>
+	<id> 17 </id>
+	<name>Heaven or Hell</name>
+	<artist> Don Toliver </artist>
+	<genre> Pop Rap, RnB </genre>
+	<year> 2020 </year>
+	<price> 5.99 $</price>
+	<description>Heaven or Hell is the debut studio album by American rapper and singer Don Toliver. It was released on March 13, 2020, by Cactus Jack Records, Atlantic Records and We Run It Entertainment. The album features guest appearances by Travis Scott, Kaash Paige, Quavo and Offset from the hip hop trio Migos, and Sheck Wes. It also contains production from high-profile record producers, mainly from WondaGurl and Mike Dean, as well as Sonny Digital, Frank Dukes, and Cubeatz, among others. </description>
+</album>
+
+<album>
+	<id> 18 </id>
+	<name>Days Before Rodeo</name>
+	<artist> Travis Scott </artist>
+	<genre> Trap Rap </genre>
+	<year> 2014 </year>
+	<price> 7.99 $</price>
+	<description>Days Before Rodeo is the second mixtape by American rapper Travis Scott. It was released for free on August 18, 2014, by Grand Hustle Records. The mixtape features guest appearances from Young Thug, Big Sean, The 1975, Rich Homie Quan, Migos, T.I. and Peewee Longway. </description>
+</album>
+
+
+
+</AlbumList>
