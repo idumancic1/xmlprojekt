@@ -6,6 +6,7 @@
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="stilVinyls.css">
+	<style>img[alt="www.000webhost.com"]{display:none};</style>
 	<?php
 		$xmldata = simplexml_load_file("albumi.xml") or die("Failed to load"); ?>
     <title>VinylDrop</title> </head>
